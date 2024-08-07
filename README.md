@@ -2,13 +2,13 @@
 # Antisocial Online Behavior Detection Using Deep Learning
 
 - Codes separated into quantlets: 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Data Preparation](AOBDL_data_preparation)**
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Lexicon-based Approach](AOBDL_lexicon)**
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Traditional Machine Learning](AOBDL_TML)**
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Deep Learning](AOBDL_DL)**
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Pre-Trained Transformers](AOBDL_BERT)**
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Interpretability](AOBDL_LIME)**
+## * **[Data Preparation](AOBDL_data_preparation)**
+## * **[Lexicon-based Approach](AOBDL_lexicon)**
+## * **[Traditional Machine Learning](AOBDL_TML)**
+## * **[Deep Learning](AOBDL_DL)**
+## * **[Pre-Trained Transformers](AOBDL_BERT)**
+## * **[Interpretability](AOBDL_LIME)**
 
-For proper functionality please place data files
+For proper functionality, please place data files
 into **[raw_data](raw_data)** and create an empty **data** folder
 
