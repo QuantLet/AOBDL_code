@@ -3,7 +3,9 @@
 <img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
 </a>
 </div>
+
 # Antisocial Online Behavior Detection Using Deep Learning
+
 - Codes separated into quantlets: 
 ## * **[Data Preparation](AOBDL_data_preparation)**
 ## * **[Lexicon-based Approach](AOBDL_lexicon)**
@@ -11,6 +13,7 @@
 ## * **[Deep Learning](AOBDL_DL)**
 ## * **[Pre-Trained Transformers](AOBDL_BERT)**
 ## * **[Interpretability](AOBDL_LIME)**
+
 For proper functionality, please place data files
 into **[raw_data](raw_data)** and create an empty **data** folder
 
