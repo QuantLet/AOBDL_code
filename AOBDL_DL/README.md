@@ -9,7 +9,7 @@ Name of Quantlet: AOBDL_DL
 
 Published in: Antisocial Online Behavior Detection using Deep Learning
 
-Description: Antisocial Online behaivor detection. Contains benchmarking on different models deep learning models: GRU, LSTM, BGRU (bidirectional), BLSTM, BGRU + attention, BGRU + global
+Description: Antisocial Online behaivor detection. Contains benchmarking on different models deep learning models: GRU, LSTM, BGRU (bidirectional), BLSTM, BGRU + attention, BGRU + global average pooling, BGRU + global maximum pooling. Furthermore contains HAN and psHAN
 
 Keywords: 
 - cyber-bullying
