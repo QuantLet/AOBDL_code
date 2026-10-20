@@ -9,7 +9,7 @@ Name of Quantlet: AOBDL_TML
 
 Published in: Antisocial Online Behavior Detection using Deep Learning
 
-Description: Antisocial Online behaivor detection. Contains traditional machine learning methods: ridge regression, SVM, random
+Description: Antisocial Online behaivor detection. Contains traditional machine learning methods: ridge regression, SVM, random forest, lightGBM
 
 Keywords: 
 - cyber-bullying
