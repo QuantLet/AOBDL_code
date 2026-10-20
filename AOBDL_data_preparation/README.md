@@ -9,7 +9,7 @@ Name of Quantlet: AOBDL_data_preparation
 
 Published in: Antisocial Online Behavior Detection using Deep Learning
 
-Description: Antisocial Online behaivor detection.
+Description: Antisocial Online behaivor detection. Contains data preparation procedure for traditional, deep learning models, including hierarchical attention model
 
 Keywords: 
 - cyber-bullying
